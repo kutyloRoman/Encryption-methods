@@ -1,4 +1,4 @@
-# Ciphers
+# Encryption methods
 There are implementations of such ciphers:
   * Caesar
   * Rearrangement
